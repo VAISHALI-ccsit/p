@@ -1,0 +1,97 @@
+{
+    "data":
+    [
+        {
+            "title": "Owner",
+            "created_date": "2023-12-01",
+            "closed_date": "2023-12-01",
+            "user":{
+              "userName": "Emily Roebling",
+              "userImage": "https://images.unsplash.com/photo-1547425260-76bcadfb4f2c?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+            }
+           
+        },
+        {
+            "title": "CEO",
+            "created_date": "2023-12-02",
+            "closed_date": "2023-12-04",
+            "user":{
+              "userName": "Edith Clarke",
+              "userImage": "https://images.unsplash.com/photo-1543132220-4bf3de6e10ae?q=80&w=1887&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+            }
+            
+        },
+        {
+            "title": "Founder",
+            "created_date": "2023-12-05",
+            "closed_date": "2023-12-06",
+            "user": {
+               "userName": "Lillian Gilbreth",
+               "userImage": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?q=80&w=1887&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+            }   
+        },
+        {
+            "title": "Managing director",
+            "created_date": "2023-12-07",
+            "closed_date": "2023-12-08",
+            "user": {
+              "userName": "Martha Coston ",
+              "userImage": "https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?q=80&w=1887&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+            }
+        },
+        {
+            "title": "President",
+            "created_date": "2023-12-09",
+            "closed_date": "2023-12-10",
+            "user": {
+              "userName": "Hedy Lamarr ",
+              "userImage": "https://images.unsplash.com/photo-1560250097-0b93528c311a?q=80&w=1887&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+            }
+        },
+        {
+            "title": "Director",
+            "created_date": "2023-12-11",
+            "closed_date": "2023-12-12",
+            "user": {
+              "userName": "Alice",
+              "userImage": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?q=80&w=1887&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+            }
+        },
+        {
+            "title": "Technical Director",
+            "created_date": "2023-12-13",
+            "closed_date": "2023-12-14",
+            "user": {
+              "userName": "Allana",
+              "userImage": "https://images.unsplash.com/flagged/photo-1553642618-de0381320ff3?q=80&w=1887&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+            }
+        },
+        {
+            "title": "Administrator",
+            "created_date": "2023-12-15",
+            "closed_date": "2024-01-16",
+            "user": {
+              "userName": "Amar",
+              "userImage": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+            }
+        },
+        {
+            "title": "General Manager",
+            "created_date": "2023-12-17",
+            "closed_date": "2024-01-18",
+            "user": {
+              "userName": "Aurel",
+              "userImage": "https://images.unsplash.com/photo-1573496799515-eebbb63814f2?q=80&w=2069&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+            }
+        },
+        {
+            "title": "Chairperson",
+            "created_date": "2023-12-19",
+            "closed_date": "2024-01-20",
+            "user": {
+              "userName": "Alexandre",
+              "userImage": "https://images.unsplash.com/photo-1562788869-4ed32648eb72?q=80&w=2072&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+            }
+        }
+    ]
+}
